@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cemrath
 - 👀 I’m interested in everything web development related, especially that which ineracts with graphics and motion.
 - 🌱 I’m currently learning Node.js, React, mongo.DB, Express, Bootstrap, SCSS
-- 💞️ I’m looking to help people find solutions to their problems
+- 💞️ I’m looking to help people find web based solutions
 - 📫 I can be reached at curtbusiness@gmail.com
 
 <!---
