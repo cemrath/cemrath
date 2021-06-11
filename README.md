@@ -1,5 +1,6 @@
 - 👋 Hello! My name is Curtis
-- 👀 I love building things with code. Here's some of my projects in development.
+- 👀 I love building things with code. Here's some of my [projects](https://github.com/cemrath?tab=repositories) in development.
+
 - 🌱 I’m currently learning Node.js, React, mongo.DB, Express, Bootstrap, SCSS, and more.
 - 📫 I can be reached at curtbusiness@gmail.com
 
